@@ -6,14 +6,14 @@ I first learned to use Power Query, DAX, and Power Pivot in Excel prior to learn
 
 ## File Descriptions
 
-### DAX_PowerBI Notes.xslx
+#### DAX_PowerBI Notes.xslx
 
 This Excel file cotains my notes for Power Query, Data Modeling, Power Pivot, DAX, and Power BI. There is a sheet for each topic, with some overlap between DAX and Power BI. I included a description/definition of the concept as well as example syntax and tips where applicable.
 
-### AdventureWorks_PBI
+#### AdventureWorks_PBI
 
 This is my complete Power BI report. Unfortunately it can't be opened from Github since I was not able to publish it on Power BI Service. For some reason I was compelled to see if would work anyway, so it's here just to be included :) 
 
-### AdventureWorks_PBI_Screenshot1-Screenshot4
+#### AdventureWorks_PBI_Screenshot1-Screenshot4
 
 There are four screenshots to show the Power BI report I created as part of the Maven Analytic's Power BI Desktop course. I used fictional data from a fictional cycling company ("AdventureWorks"). To create the report, I imported and transformed the data with the query editor, created the data model in Power BI's relatioship view, used DAX to create calculated columns and measures, and finally, I built the interactive report by choosing the best chart or graph to represent the data. 
