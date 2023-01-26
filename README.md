@@ -16,4 +16,4 @@ This is my complete Power BI report. Unfortunately it can't be opened from Githu
 
 #### AdventureWorks_PBI_Screenshot1-Screenshot4
 
-There are four screenshots to show the Power BI report I created as part of the Maven Analytic's Power BI Desktop course. I used fictional data from a fictional cycling company ("AdventureWorks"). To create the report, I imported and transformed the data with the query editor, created the data model in Power BI's relatioship view, used DAX to create calculated columns and measures, and finally, I built the interactive report by choosing the best chart or graph to represent the data. 
+There are four screenshots to show the Power BI report I created as part of the Maven Analytic's Power BI Desktop course. I used fictional data from a fictional cycling company ("AdventureWorks"). To create the report, I imported and transformed the data with the query editor, created the data model in Power BI's relationship view, used DAX to create calculated columns and measures, and finally, I built the interactive report by choosing the best chart or graph to represent the data. 
