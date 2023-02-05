@@ -17,3 +17,7 @@ This is my complete Power BI report. Unfortunately it can't be opened from Githu
 #### AdventureWorks_PBI_Screenshot1-Screenshot4
 
 There are four screenshots to show the Power BI report I created as part of the Maven Analytic's Power BI Desktop course. I used fictional data from a fictional cycling company ("AdventureWorks"). To create the report, I imported and transformed the data with the query editor, created the data model in Power BI's relationship view, used DAX to create calculated columns and measures, and finally, I built the interactive report by choosing the best chart or graph to represent the data. 
+
+#### Restaurant_Ratings_PBI_Screenshot1-Screenshot5
+
+These screenshots include the dashboards I created in Power BI Desktop for a project I did independently after completing Maven Analytic's Power BI Desktop course. The dataset consists of restaurant ratings in Mexico by real consumers in 2012. The data was retrieved from [Maven Analytics Data Playground](https://app.mavenanalytics.io/datasets?page=3) and consists of five tables with information about both the consumer sample and restaurant sample. To create this report, I imported and transformed the data with the query editor in Power BI, built the data model in relationship view, created calcuated columns and measures using DAX, and finally, created several visuals to present insights from the data. 
