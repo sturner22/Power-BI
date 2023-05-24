@@ -4,11 +4,13 @@ This repository contains my Microsoft Power BI notes and projects. Currently I a
 
 I first learned to use Power Query, DAX, and Power Pivot in Excel prior to learning Power BI. Creating and editing queries, calculated columns and DAX measures, and creating data models works the same way in Excel and Power BI, so if you learn one you can easily learn the other. From there, I learned to create dashboards in the Power BI report view using various charts and the wide range of options for formatting and filtering the visuals to create an impressive, interactive dashboard. I learned these skills from [Maven Analytics](https://www.mavenanalytics.io/) Excel and Power BI courses, which I highly recommend!
 
-## File Descriptions
+## Folder & File Descriptions
 
-#### DAX_PowerBI Notes.xslx
+### DAX_PowerBI Notes.xslx
 
 This Excel file cotains my notes for Power Query, Data Modeling, Power Pivot, DAX, and Power BI. There is a sheet for each topic, with some overlap between DAX and Power BI. I included a description/definition of the concept as well as example syntax and tips where applicable.
+
+### Adventure Works Analysis Project Folder
 
 #### AdventureWorks_PBI
 
@@ -17,6 +19,8 @@ This is my complete Power BI report. Unfortunately it can't be opened from Githu
 #### AdventureWorks_PBI_Screenshot1-Screenshot4
 
 There are four screenshots to show the Power BI report I created as part of the Maven Analytic's Power BI Desktop course. I used fictional data from a fictional cycling company ("AdventureWorks"). To create the report, I imported and transformed the data with the query editor, created the data model in Power BI's relationship view, used DAX to create calculated columns and measures, and finally, I built the interactive report by choosing the best chart or graph to represent the data. 
+
+### Restaurant Ratings Analysis Project Folder
 
 #### Restaurant_Ratings_PBI_Screenshot1-Screenshot5
 
