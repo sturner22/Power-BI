@@ -14,7 +14,7 @@ This Excel file cotains my notes for Power Query, Data Modeling, Power Pivot, DA
 
 #### AdventureWorks_PBI
 
-This is my complete Power BI report. Unfortunately it can't be opened from Github since I was not able to publish it on Power BI Service. For some reason I was compelled to see if would work anyway, so it's here just to be included :) 
+This is my complete Power BI report. 
 
 #### AdventureWorks_PBI_Screenshot1-Screenshot4
 
